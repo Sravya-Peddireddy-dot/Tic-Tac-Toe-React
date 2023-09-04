@@ -1,0 +1,31 @@
+.square{
+  width:60px;
+  height:60px;
+  font-size: xx-large;
+}
+
+.board-row{
+  display: flex;
+  /* justify-content: center; */
+}
+
+.describe{
+  display: flex;
+  /* justify-content: space-around; */
+  margin: 10px;
+  /* align-items: center; */
+}
+
+.status{
+  margin-bottom: 20px;
+}
+
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: x-large;
+  align-items: center;
+  margin: 20px;
+}
